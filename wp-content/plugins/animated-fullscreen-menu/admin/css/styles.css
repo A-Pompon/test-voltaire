@@ -1,0 +1,28 @@
+
+.cmb2-id-animatedfsm-backgroundimage input{
+    margin-left: 0 !important;
+}
+
+.animatedfsm_pro_feature{
+    pointer-events: none;
+}
+.animatedfsm_pro_feature .cmb-td{
+    opacity: 0.4;
+}
+.animatedfsm_pro_feature .cmb2-metabox-description{
+    color: green;
+}
+
+.animated_textshadow_number input[type="number"]{
+    width: 50px !important;
+}
+
+#cmb2-metabox-animatedfsmenu_theme_options_page .fa-brands, #cmb2-metabox-animatedfsmenu_theme_options_page .fa-solid, #cmb2-metabox-animatedfsmenu_theme_options_page .fab {
+    font-family: "Font Awesome 6 Brands" !important;
+    font-weight: 400 !important;
+}
+
+.cmb-tabs .cmb-th + .cmb-td, .cmb-tabs .cmb-th + .cmb-td{
+    display: flex;
+    padding: 10px;
+}
